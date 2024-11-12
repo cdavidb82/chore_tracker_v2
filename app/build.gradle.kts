@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.blabs.chore_tracker"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.blabs.chore_tracker"
